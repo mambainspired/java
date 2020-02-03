@@ -1,0 +1,12 @@
+
+public class Car {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		public Car() {
+			System.out.println("Car");
+		}
+
+	}
+
+}

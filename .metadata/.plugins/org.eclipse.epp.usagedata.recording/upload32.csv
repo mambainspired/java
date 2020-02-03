@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+locale,sysinfo,,,"en_US",1251078196588
+processors,sysinfo,,,"2",1251078196588
+java.runtime.name,sysinfo,,,"Java(TM) 2 Runtime Environment, Standard Edition",1251078196588
+java.runtime.version,sysinfo,,,"1.5.0_19-b02-304",1251078196588
+java.specification.name,sysinfo,,,"Java Platform API Specification",1251078196588
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1251078196588
+java.specification.version,sysinfo,,,"1.5",1251078196588
+java.vendor,sysinfo,,,"Apple Inc.",1251078196588
+java.version,sysinfo,,,"1.5.0_19",1251078196588
+java.vm.info,sysinfo,,,"mixed mode",1251078196588
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1251078196588
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1251078196588
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1251078196588
+java.vm.specification.version,sysinfo,,,"1.0",1251078196588
+java.vm.vendor,sysinfo,,,"Apple Inc.",1251078196588
+java.vm.version,sysinfo,,,"1.5.0_19-137",1251078196588
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1251078196691
+started,bundle,org.eclipse.epp.usagedata.ui,1.1.0.R200906100410,"org.eclipse.epp.usagedata.ui",1251078197688
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1251078214110
+started,bundle,org.eclipse.help.base,3.4.0.v200906111540,"org.eclipse.help.base",1251078216106
+started,bundle,org.eclipse.help.ui,3.4.0.v20090528,"org.eclipse.help.ui",1251078216133
+started,bundle,org.eclipse.equinox.http.jetty,2.0.0.v20090520-1800,"org.eclipse.equinox.http.jetty",1251078216253
+started,bundle,org.eclipse.equinox.http.servlet,1.0.200.v20090520-1800,"org.eclipse.equinox.http.servlet",1251078216292
+started,bundle,org.eclipse.equinox.http.registry,1.0.200.v20090520-1800,"org.eclipse.equinox.http.registry",1251078216401
+started,bundle,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser",1251078216454
