@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="952367f7-03ca-42a4-bda3-f35f0a4b12de" name="Default Changelist" comment="" />
+    <list default="true" id="952367f7-03ca-42a4-bda3-f35f0a4b12de" name="Default Changelist" comment="Using HashMap data structure">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractClasses/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kalsden/Dictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kalsden/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kalsden/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kalsden/Node.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +21,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1WvD2u615BKN6MgFAgFdChBrk4v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
@@ -65,23 +77,31 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Using HashMap data structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using HashMap data structure" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="939" height="356" key="GridCell.Tab.0.bottom" timestamp="1580644518233">
+    <state x="-1365" y="-31" key="CommitChangelistDialog2" timestamp="1581484828484">
       <screen x="-1920" y="-162" width="1920" height="1053" />
     </state>
-    <state width="939" height="356" key="GridCell.Tab.0.bottom/-1920.-162.1920.1053/0.23.1280.777@-1920.-162.1920.1053" timestamp="1580644518233" />
-    <state width="939" height="356" key="GridCell.Tab.0.center" timestamp="1580644518230">
+    <state x="-1365" y="-31" key="CommitChangelistDialog2/-1920.-162.1920.1053/0.23.1280.777@-1920.-162.1920.1053" timestamp="1581484828484" />
+    <state width="939" height="288" key="GridCell.Tab.0.bottom" timestamp="1581484993435">
       <screen x="-1920" y="-162" width="1920" height="1053" />
     </state>
-    <state width="939" height="356" key="GridCell.Tab.0.center/-1920.-162.1920.1053/0.23.1280.777@-1920.-162.1920.1053" timestamp="1580644518230" />
-    <state width="939" height="356" key="GridCell.Tab.0.left" timestamp="1580644518228">
+    <state width="939" height="288" key="GridCell.Tab.0.bottom/-1920.-162.1920.1053/0.23.1280.777@-1920.-162.1920.1053" timestamp="1581484993435" />
+    <state width="939" height="288" key="GridCell.Tab.0.center" timestamp="1581484993431">
       <screen x="-1920" y="-162" width="1920" height="1053" />
     </state>
-    <state width="939" height="356" key="GridCell.Tab.0.left/-1920.-162.1920.1053/0.23.1280.777@-1920.-162.1920.1053" timestamp="1580644518228" />
-    <state width="939" height="356" key="GridCell.Tab.0.right" timestamp="1580644518231">
+    <state width="939" height="288" key="GridCell.Tab.0.center/-1920.-162.1920.1053/0.23.1280.777@-1920.-162.1920.1053" timestamp="1581484993431" />
+    <state width="939" height="288" key="GridCell.Tab.0.left" timestamp="1581484993430">
       <screen x="-1920" y="-162" width="1920" height="1053" />
     </state>
-    <state width="939" height="356" key="GridCell.Tab.0.right/-1920.-162.1920.1053/0.23.1280.777@-1920.-162.1920.1053" timestamp="1580644518231" />
+    <state width="939" height="288" key="GridCell.Tab.0.left/-1920.-162.1920.1053/0.23.1280.777@-1920.-162.1920.1053" timestamp="1581484993430" />
+    <state width="939" height="288" key="GridCell.Tab.0.right" timestamp="1581484993434">
+      <screen x="-1920" y="-162" width="1920" height="1053" />
+    </state>
+    <state width="939" height="288" key="GridCell.Tab.0.right/-1920.-162.1920.1053/0.23.1280.777@-1920.-162.1920.1053" timestamp="1581484993434" />
     <state width="939" height="356" key="GridCell.Tab.1.bottom" timestamp="1580644518236">
       <screen x="-1920" y="-162" width="1920" height="1053" />
     </state>
@@ -106,16 +126,5 @@
       <screen x="-1920" y="-162" width="1920" height="1053" />
     </state>
     <state x="-1295" y="72" width="670" height="676" key="search.everywhere.popup/-1920.-162.1920.1053/0.23.1280.777@-1920.-162.1920.1053" timestamp="1580021737100" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/kalsden/Dictionary.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
