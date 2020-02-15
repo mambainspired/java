@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="952367f7-03ca-42a4-bda3-f35f0a4b12de" name="Default Changelist" comment="Using HashMap data structure">
-      <change afterPath="$PROJECT_DIR$/src/com/kalsden/dictionary.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dictionary/com/kalsden/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dictionary/com/kalsden/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kalsden/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kalsden/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractClasses/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/src/com/kalsden/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractClasses/src/com/mambainspired/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/src/com/kalsden/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractClasses/src/com/mambainspired/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/src/com/kalsden/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractClasses/src/com/mambainspired/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Concurrency/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Concurrency/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Concurrency/src/com/kalsden/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Concurrency/src/com/mambainspired/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Concurrency/src/com/kalsden/PrintCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Concurrency/src/com/mambainspired/PrintCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Concurrency/src/com/kalsden/PrintNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Concurrency/src/com/mambainspired/PrintNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kalsden/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mambainspired/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kalsden/dictionary.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mambainspired/dictionary.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +37,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.kalsden.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.mambainspired.Main" />
       <module name="Dictionary" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />

@@ -1,4 +1,4 @@
-package com.kalsden;
+package com.mambainspired;
 
 public class PrintNumber implements Runnable {
     private int max_num;

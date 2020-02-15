@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="281c6fdf-ef3f-43ca-9577-ef110b1d1e6e" name="Default Changelist" comment="" />
+    <list default="true" id="281c6fdf-ef3f-43ca-9577-ef110b1d1e6e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractClasses/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/src/com/kalsden/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractClasses/src/com/mambainspired/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/src/com/kalsden/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractClasses/src/com/mambainspired/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/src/com/kalsden/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractClasses/src/com/mambainspired/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Concurrency/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Concurrency/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Concurrency/src/com/kalsden/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Concurrency/src/com/mambainspired/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Concurrency/src/com/kalsden/PrintCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Concurrency/src/com/mambainspired/PrintCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Concurrency/src/com/kalsden/PrintNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Concurrency/src/com/mambainspired/PrintNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dictionary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictionary/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dictionary/src/com/kalsden/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictionary/src/com/mambainspired/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dictionary/src/com/kalsden/dictionary.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictionary/src/com/mambainspired/dictionary.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kalsden/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mambainspired/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kalsden/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mambainspired/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kalsden/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mambainspired/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kalsden/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mambainspired/Student.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,18 +31,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1WgxwQO1ubiJPnMiDTL7xVTEKyD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.kalsden.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.mambainspired.Main" />
       <module name="LinkedList" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />

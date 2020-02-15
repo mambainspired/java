@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="178ebeb1-e3ba-4196-8974-9294d2cd2eb8" name="Default Changelist" comment="" />
+    <list default="true" id="178ebeb1-e3ba-4196-8974-9294d2cd2eb8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractClasses/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/src/com/kalsden/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractClasses/src/com/mambainspired/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/src/com/kalsden/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractClasses/src/com/mambainspired/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/src/com/kalsden/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractClasses/src/com/mambainspired/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kalsden/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mambainspired/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kalsden/PrintCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mambainspired/PrintCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kalsden/PrintNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mambainspired/PrintNumber.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,15 +22,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1W0S8OSbLF7kH3avhCeh4dS1tFB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.kalsden.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.mambainspired.Main" />
       <module name="Concurrency" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />

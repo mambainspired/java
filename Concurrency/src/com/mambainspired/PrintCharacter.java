@@ -1,4 +1,4 @@
-package com.kalsden;
+package com.mambainspired;
 
 public class PrintCharacter implements Runnable {
     private int times;

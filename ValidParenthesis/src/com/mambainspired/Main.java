@@ -1,4 +1,4 @@
-package com.kalsden;
+package com.mambainspired;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

@@ -1,4 +1,4 @@
-package com.kalsden;
+package com.mambainspired;
 
 public abstract class Animal {
     // Abstract method
